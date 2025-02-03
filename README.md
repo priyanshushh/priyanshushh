@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Priyanshu Sharma</h1>
 <h3 align="left">I'm a dedicated web developer with a passion for crafting exceptional front-end experiences. My mission is to provide users with a seamless and enjoyable browsing journey. I thrive on tackling new challenges, constantly expanding my skill set to stay on the cutting edge of web development. Let's build something amazing together! 💻✨</h3>
 
-:earth_asia: Know about my experiences [https://priyanshu-sharma.netlify.app/](https://priyanshu-sharma.netlify.app/)
-
 💬 Ask me about **JavaScript, React, CSS, Web development**
 
 📫 How to reach me **priyanshusharmaaug03@gmail.com**
@@ -30,9 +28,9 @@
       alt="react" width="40" height="40" />
   </a>
   
-  <a href="https://threejs.org/" target="_blank">
-    <img src="https://upload.vectorlogo.zone/logos/threejs/images/3453d6aa-b9c2-48b3-b2c1-97aa80b5525e.svg"
-      alt="react" width="80" height="40" />
+  <a href="https://remix.run/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYxwpW69DW84ghVhY57ni2vwAa8J-ZgDnb2w9A7XPw-fmJ35wBlQkEnqQsmwgVfX0rZTw&usqp=CAU"
+      alt="react" width="40" height="40" />
   </a>
   
   <a href="https://redux.js.org" target="_blank">
@@ -44,22 +42,22 @@
       height="40" />
   </a>
   <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+    <img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies-thumbnail.png"
       alt="bootstrap" width="40" height="40" />
   </a>
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
   </a>
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40" />
+    <img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo.png" alt="nextjs" width="90" height="40" />
   </a>
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg"
       alt="nodejs" width="40" height="40" />
   </a>
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express" width="40" height="40" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPWXoi7cy3HEsFJ8kqj7FQisLz0IBP9r7hW-4RysSgRZKI0BLQm46I0nn-PwKi2112FaU&usqp=CAU"
+      alt="express" width="80" height="40" />
   </a>
   <a href="https://graphql.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
